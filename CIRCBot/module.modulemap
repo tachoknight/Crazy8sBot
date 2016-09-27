@@ -1,0 +1,6 @@
+ module CIRCBot {
+    module irc {
+        header "/usr/include/libircclient.h"
+        export *
+    }
+}
