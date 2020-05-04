@@ -10,8 +10,8 @@ I wanted to learn how to combine Swift and C-based libraries so I thought to cre
 ## Project Layout
 The project is comprised of two directories, *CIRCBot* and *Crazy8sBot*. 
 
-###CIRCBot
+### CIRCBot
 This directory contains the necessary files to include the libircclient header and export it to the actual Swift code in the Crazy8sBot directory. 
-###Crazy8sBot
+### Crazy8sBot
 The code is pretty much the same as the game project with the exception being ***main.swift***; this is where the IRC code is located.  
 
